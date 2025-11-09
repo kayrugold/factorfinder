@@ -1,0 +1,5 @@
+{
+  "name": "Factor Finder",
+  "description": "An advanced application for finding factors of large numbers using trial division and a novel S-augmented search (SAS) algorithm, complete with geometric visualization of the hyperbola method.",
+  "requestFramePermissions": []
+}
